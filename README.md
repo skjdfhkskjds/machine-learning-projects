@@ -1,5 +1,5 @@
-# machine-learning-projects
-A miscellaneous repository containing some of my quick(er) machine learning projects.
+# Machine Learning Projects
+A miscellaneous repository containing some of my machine learning projects.
 
 ## List of Projects:
 
